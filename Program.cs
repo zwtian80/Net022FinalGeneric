@@ -6,7 +6,7 @@ namespace Net022FinalGeneric
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
